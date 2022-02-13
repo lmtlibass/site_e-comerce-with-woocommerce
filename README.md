@@ -51,7 +51,7 @@
     
    ### composition du site
    
-   **Accuiel**: Reproduire la version actuelle du site
-   **E-shop** : la boutique en ligne (ajouter des catégories, tags et produits )
-   **Contact** : Les informations et la localisation de la boutique.
-   **CGU**: une page pour les CGU
+  - **Accuiel**: Reproduire la version actuelle du site
+  - **E-shop** : la boutique en ligne (ajouter des catégories, tags et produits )
+  - **Contact** : Les informations et la localisation de la boutique.
+  - **CGU**: une page pour les CGU
